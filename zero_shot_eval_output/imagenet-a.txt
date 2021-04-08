@@ -1,0 +1,206 @@
+Top 1 accuracy = 1.61 %
+Top 5 accuracy = 6.85 %
+----------------------------------------------------- 
+Class wise accuracies (in %)
+
+Top-1     Top-5     Class name          
+0.0       9.21      stingray            
+2.0       7.0       goldfinch           
+0.0       0.0       junco               
+0.0       4.0       robin               
+0.0       0.0       jay                 
+0.0       0.0       bald eagle          
+2.63      18.42     vulture             
+0.0       3.57      eft                 
+0.0       0.0       bullfrog            
+1.56      3.12      box turtle          
+1.0       3.0       common iguana       
+0.0       1.43      agama               
+0.0       1.14      African chameleon   
+0.0       0.0       American alligator  
+0.0       2.47      garter snake        
+0.0       2.99      harvestman          
+0.0       1.02      scorpion            
+0.0       0.0       tarantula           
+0.0       1.61      centipede           
+1.37      6.85      sulphur-crested cockatoo
+0.0       0.0       lorikeet            
+1.02      5.1       hummingbird         
+2.04      6.12      toucan              
+1.47      17.65     drake               
+1.03      3.09      goose               
+0.0       0.0       koala               
+0.0       0.0       jellyfish           
+13.27     41.84     sea anemone         
+0.0       4.0       flatworm            
+2.6       9.09      snail               
+1.09      13.04     crayfish            
+0.0       0.0       hermit crab         
+0.0       1.43      flamingo            
+0.0       4.49      American egret      
+0.0       0.0       oystercatcher       
+3.7       14.81     pelican             
+5.26      15.79     sea lion            
+9.52      14.29     Chihuahua           
+5.26      21.05     golden retriever    
+8.57      22.86     Rottweiler          
+0.0       0.0       German shepherd     
+0.0       4.0       pug                 
+0.0       2.94      red fox             
+8.11      22.97     Persian cat         
+1.02      1.02      lynx                
+0.0       0.0       lion                
+16.13     32.26     American black bear 
+3.51      3.51      mongoose            
+1.0       3.0       ladybug             
+0.0       0.0       rhinoceros beetle   
+0.0       0.0       weevil              
+1.01      7.07      fly                 
+0.0       1.03      bee                 
+1.45      4.35      ant                 
+0.0       0.0       grasshopper         
+1.64      4.92      walking stick       
+0.0       0.0       cockroach           
+2.0       4.0       mantis              
+0.0       5.0       leafhopper          
+0.0       1.25      dragonfly           
+0.0       0.0       monarch             
+0.0       1.61      cabbage butterfly   
+0.0       0.0       lycaenid            
+0.0       0.0       starfish            
+0.0       1.67      wood rabbit         
+0.0       0.0       porcupine           
+1.0       7.0       fox squirrel        
+0.0       0.0       marmot              
+0.0       17.65     bison               
+0.0       1.56      skunk               
+0.0       0.0       armadillo           
+14.29     28.57     baboon              
+0.0       0.0       capuchin            
+0.0       7.14      African elephant    
+4.65      9.3       puffer              
+0.0       0.0       academic gown       
+0.0       0.0       accordion           
+0.0       4.55      acoustic guitar     
+0.0       4.0       airliner            
+0.0       0.0       ambulance           
+0.0       0.0       apron               
+3.23      19.35     balance beam        
+0.0       0.0       balloon             
+0.0       0.0       banjo               
+16.0      24.0      barn                
+0.0       7.14      barrow              
+0.0       4.35      basketball          
+3.85      11.54     beacon              
+0.0       0.0       beaker              
+4.55      13.64     bikini              
+0.0       0.0       bow                 
+0.0       7.41      bow tie             
+0.0       0.0       breastplate         
+0.0       2.86      broom               
+3.33      20.0      candle              
+0.0       10.0      canoe               
+7.14      28.57     castle              
+0.0       0.0       cello               
+1.61      4.84      chain               
+0.0       0.0       chest               
+0.0       8.7       Christmas stocking  
+0.0       7.14      cowboy boot         
+0.0       0.0       cradle              
+0.0       0.0       dial telephone      
+0.0       14.29     digital clock       
+0.0       0.0       doormat             
+0.0       6.67      drumstick           
+0.0       0.0       dumbbell            
+2.78      2.78      envelope            
+0.0       0.0       feather boa         
+0.0       3.7       flagpole            
+0.0       15.38     forklift            
+0.0       15.38     fountain            
+11.11     33.33     garbage truck       
+3.57      14.29     goblet              
+9.09      18.18     go-kart             
+0.0       5.26      golfcart            
+0.0       0.0       grand piano         
+0.0       0.0       hand blower         
+0.0       0.0       iron                
+4.17      8.33      jack-o'-lantern     
+2.94      41.18     jeep                
+3.7       3.7       kimono              
+0.0       4.69      lighter             
+0.0       14.29     limousine           
+0.0       6.25      manhole cover       
+0.0       0.0       maraca              
+0.0       5.26      marimba             
+0.0       2.13      mask                
+0.0       6.45      mitten              
+0.0       0.0       mosque              
+0.0       12.5      nail                
+5.0       30.0      obelisk             
+0.0       0.0       ocarina             
+0.0       16.67     organ               
+0.0       0.0       parachute           
+0.0       0.0       parking meter       
+0.0       0.0       piggy bank          
+0.0       4.35      pool table          
+0.0       7.14      puck                
+0.0       0.0       quill               
+0.0       8.0       racket              
+0.0       0.0       reel                
+0.0       0.0       revolver            
+8.7       17.39     rocking chair       
+11.76     11.76     rugby ball          
+0.0       3.57      saltshaker          
+0.0       4.35      sandal              
+0.0       0.0       sax                 
+3.33      26.67     school bus          
+6.25      18.75     schooner            
+5.26      10.53     sewing machine      
+0.0       11.76     shovel              
+0.0       0.0       sleeping bag        
+0.0       30.77     snowmobile          
+0.0       18.18     snowplow            
+16.67     16.67     soap dispenser      
+0.0       0.0       spatula             
+0.0       0.0       spider web          
+3.03      6.06      steam locomotive    
+0.0       0.0       stethoscope         
+2.27      11.36     studio couch        
+0.0       5.26      submarine           
+0.0       10.53     sundial             
+3.85      19.23     suspension bridge   
+0.0       9.09      syringe             
+0.0       0.0       tank                
+1.64      8.2       teddy               
+0.0       12.5      toaster             
+0.0       0.0       torch               
+0.0       0.0       tricycle            
+0.0       3.23      umbrella            
+0.0       5.0       unicycle            
+0.0       0.0       viaduct             
+3.7       14.81     volleyball          
+0.0       0.0       washer              
+17.95     43.59     water tower         
+2.5       17.5      wine bottle         
+0.0       9.09      wreck               
+0.0       5.0       guacamole           
+0.0       10.0      pretzel             
+0.0       12.5      cheeseburger        
+0.0       15.38     hotdog              
+0.0       0.0       broccoli            
+6.9       20.69     cucumber            
+2.38      16.67     bell pepper         
+2.04      7.14      mushroom            
+4.35      17.39     lemon               
+17.39     21.74     banana              
+0.0       0.0       custard apple       
+2.22      11.11     pomegranate         
+0.0       6.67      carbonara           
+2.44      2.44      bubble              
+25.0      58.33     cliff               
+0.0       15.79     volcano             
+16.67     50.0      ballplayer          
+0.0       5.88      rapeseed            
+0.0       0.0       yellow lady's slipper
+11.11     27.78     corn                
+4.35      8.7       acorn               

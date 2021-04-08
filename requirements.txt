@@ -1,0 +1,8 @@
+tqdm==4.59.0
+regex==2020.11.13
+ftfy==5.9
+omegaconf==2.0.5
+matplotlib==3.3.4
+numpy==1.19.2
+Pillow==8.2.0
+PyYAML==5.4.1

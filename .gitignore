@@ -1,0 +1,5 @@
+data/*
+# except the vocab file
+!data/bpe_simple_vocab_16e6.txt.gz
+*.pt
+*pyc

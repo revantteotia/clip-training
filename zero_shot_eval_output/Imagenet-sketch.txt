@@ -1,0 +1,1004 @@
+Top 1 accuracy = 0.66 %
+Top 5 accuracy = 2.43 %
+----------------------------------------------------- 
+Class wise accuracies (in %)
+
+Top-1     Top-5     Class name          
+0.0       0.0       tench               
+0.0       0.0       goldfish            
+0.0       0.0       great white shark   
+0.0       0.0       tiger shark         
+0.0       0.0       hammerhead          
+0.0       1.96      electric ray        
+0.0       0.0       stingray            
+0.0       1.96      cock                
+0.0       0.0       hen                 
+0.0       0.0       ostrich             
+0.0       0.0       brambling           
+0.0       9.8       goldfinch           
+0.0       0.0       house finch         
+0.0       0.0       junco               
+0.0       0.0       indigo bunting      
+0.0       0.0       robin               
+0.0       1.96      bulbul              
+0.0       0.0       jay                 
+1.96      1.96      magpie              
+3.92      13.73     chickadee           
+0.0       1.96      water ouzel         
+0.0       1.96      kite                
+0.0       0.0       bald eagle          
+0.0       0.0       vulture             
+0.0       1.96      great grey owl      
+0.0       0.0       European fire salamander
+0.0       1.96      common newt         
+0.0       0.0       eft                 
+0.0       0.0       spotted salamander  
+0.0       0.0       axolotl             
+0.0       0.0       bullfrog            
+0.0       0.0       tree frog           
+0.0       0.0       tailed frog         
+0.0       0.0       loggerhead          
+0.0       0.0       leatherback turtle  
+0.0       0.0       mud turtle          
+0.0       0.0       terrapin            
+0.0       0.0       box turtle          
+0.0       0.0       banded gecko        
+0.0       1.96      common iguana       
+0.0       0.0       American chameleon  
+0.0       0.0       whiptail            
+0.0       0.0       agama               
+0.0       0.0       frilled lizard      
+0.0       0.0       alligator lizard    
+1.96      1.96      Gila monster        
+0.0       0.0       green lizard        
+1.96      3.92      African chameleon   
+0.0       0.0       Komodo dragon       
+0.0       0.0       African crocodile   
+0.0       0.0       American alligator  
+0.0       0.0       triceratops         
+0.0       0.0       thunder snake       
+0.0       0.0       ringneck snake      
+0.0       0.0       hognose snake       
+0.0       0.0       green snake         
+0.0       0.0       king snake          
+0.0       0.0       garter snake        
+0.0       0.0       water snake         
+0.0       0.0       vine snake          
+0.0       0.0       night snake         
+0.0       0.0       boa constrictor     
+0.0       0.0       rock python         
+0.0       0.0       Indian cobra        
+0.0       0.0       green mamba         
+0.0       0.0       sea snake           
+0.0       0.0       horned viper        
+0.0       0.0       diamondback         
+0.0       0.0       sidewinder          
+0.0       0.0       trilobite           
+0.0       0.0       harvestman          
+0.0       0.0       scorpion            
+0.0       0.0       black and gold garden spider
+0.0       0.0       barn spider         
+0.0       0.0       garden spider       
+0.0       0.0       black widow         
+0.0       0.0       tarantula           
+0.0       0.0       wolf spider         
+0.0       0.0       tick                
+0.0       0.0       centipede           
+0.0       0.0       black grouse        
+0.0       0.0       ptarmigan           
+0.0       0.0       ruffed grouse       
+0.0       0.0       prairie chicken     
+0.0       0.0       peacock             
+0.0       0.0       quail               
+0.0       0.0       partridge           
+0.0       6.0       African grey        
+0.0       0.0       macaw               
+0.0       0.0       sulphur-crested cockatoo
+0.0       0.0       lorikeet            
+0.0       0.0       coucal              
+0.0       0.0       bee eater           
+0.0       1.96      hornbill            
+0.0       0.0       hummingbird         
+0.0       0.0       jacamar             
+0.0       0.0       toucan              
+0.0       0.0       drake               
+0.0       0.0       red-breasted merganser
+0.0       0.0       goose               
+1.96      1.96      black swan          
+0.0       0.0       tusker              
+0.0       0.0       echidna             
+0.0       0.0       platypus            
+0.0       0.0       wallaby             
+0.0       0.0       koala               
+0.0       0.0       wombat              
+0.0       0.0       jellyfish           
+0.0       0.0       sea anemone         
+0.0       0.0       brain coral         
+0.0       1.96      flatworm            
+0.0       0.0       nematode            
+0.0       0.0       conch               
+6.0       6.0       snail               
+0.0       1.96      slug                
+0.0       0.0       sea slug            
+0.0       7.84      chiton              
+0.0       0.0       chambered nautilus  
+0.0       0.0       Dungeness crab      
+0.0       0.0       rock crab           
+0.0       0.0       fiddler crab        
+0.0       0.0       king crab           
+0.0       0.0       American lobster    
+0.0       0.0       spiny lobster       
+0.0       0.0       crayfish            
+0.0       0.0       hermit crab         
+0.0       0.0       isopod              
+0.0       0.0       white stork         
+13.73     15.69     black stork         
+0.0       0.0       spoonbill           
+0.0       0.0       flamingo            
+0.0       1.96      little blue heron   
+0.0       11.76     American egret      
+0.0       0.0       bittern             
+0.0       2.94      crane               
+0.0       0.0       limpkin             
+0.0       0.0       European gallinule  
+0.0       0.0       American coot       
+0.0       0.0       bustard             
+0.0       0.0       ruddy turnstone     
+0.0       0.0       red-backed sandpiper
+0.0       0.0       redshank            
+0.0       0.0       dowitcher           
+0.0       0.0       oystercatcher       
+0.0       0.0       pelican             
+0.0       0.0       king penguin        
+0.0       0.0       albatross           
+0.0       0.0       grey whale          
+0.0       0.0       killer whale        
+0.0       0.0       dugong              
+0.0       0.0       sea lion            
+0.0       2.0       Chihuahua           
+0.0       0.0       Japanese spaniel    
+0.0       0.0       Maltese dog         
+0.0       0.0       Pekinese            
+0.0       0.0       Shih-Tzu            
+0.0       0.0       Blenheim spaniel    
+0.0       0.0       papillon            
+0.0       0.0       toy terrier         
+0.0       0.0       Rhodesian ridgeback 
+0.0       0.0       Afghan hound        
+0.0       0.0       basset              
+3.92      11.76     beagle              
+0.0       0.0       bloodhound          
+0.0       0.0       bluetick            
+0.0       0.0       black-and-tan coonhound
+0.0       0.0       Walker hound        
+0.0       0.0       English foxhound    
+0.0       0.0       redbone             
+0.0       0.0       borzoi              
+0.0       0.0       Irish wolfhound     
+0.0       0.0       Italian greyhound   
+0.0       0.0       whippet             
+5.88      7.84      Ibizan hound        
+0.0       0.0       Norwegian elkhound  
+1.96      7.84      otterhound          
+0.0       0.0       Saluki              
+0.0       0.0       Scottish deerhound  
+0.0       0.0       Weimaraner          
+0.0       0.0       Staffordshire bullterrier
+0.0       0.0       American Staffordshire terrier
+0.0       0.0       Bedlington terrier  
+0.0       0.0       Border terrier      
+0.0       0.0       Kerry blue terrier  
+0.0       0.0       Irish terrier       
+0.0       0.0       Norfolk terrier     
+0.0       0.0       Norwich terrier     
+5.88      25.49     Yorkshire terrier   
+0.0       0.0       wire-haired fox terrier
+0.0       0.0       Lakeland terrier    
+0.0       0.0       Sealyham terrier    
+0.0       0.0       Airedale            
+0.0       0.0       cairn               
+0.0       0.0       Australian terrier  
+0.0       0.0       Dandie Dinmont      
+0.0       0.0       Boston bull         
+0.0       0.0       miniature schnauzer 
+0.0       0.0       giant schnauzer     
+0.0       0.0       standard schnauzer  
+0.0       0.0       Scotch terrier      
+0.0       0.0       Tibetan terrier     
+0.0       0.0       silky terrier       
+0.0       0.0       soft-coated wheaten terrier
+1.96      9.8       West Highland white terrier
+0.0       0.0       Lhasa               
+0.0       4.0       flat-coated retriever
+1.96      9.8       curly-coated retriever
+0.0       0.0       golden retriever    
+2.0       16.0      Labrador retriever  
+0.0       0.0       Chesapeake Bay retriever
+0.0       0.0       German short-haired pointer
+0.0       0.0       vizsla              
+0.0       0.0       English setter      
+0.0       0.0       Irish setter        
+0.0       0.0       Gordon setter       
+1.96      3.92      Brittany spaniel    
+0.0       0.0       clumber             
+0.0       0.0       English springer    
+0.0       0.0       Welsh springer spaniel
+0.0       0.0       cocker spaniel      
+0.0       0.0       Sussex spaniel      
+0.0       0.0       Irish water spaniel 
+0.0       0.0       kuvasz              
+0.0       0.0       schipperke          
+0.0       0.0       groenendael         
+0.0       0.0       malinois            
+0.0       1.96      briard              
+0.0       0.0       kelpie              
+0.0       0.0       komondor            
+0.0       0.0       Old English sheepdog
+1.96      5.88      Shetland sheepdog   
+9.8       23.53     collie              
+0.0       3.92      Border collie       
+0.0       0.0       Bouvier des Flandres
+0.0       8.0       Rottweiler          
+0.0       4.0       German shepherd     
+0.0       0.0       Doberman            
+0.0       0.0       miniature pinscher  
+1.96      5.88      Greater Swiss Mountain dog
+2.0       10.0      Bernese mountain dog
+0.0       1.96      Appenzeller         
+0.0       0.0       EntleBucher         
+0.0       0.0       boxer               
+0.0       0.0       bull mastiff        
+0.0       0.0       Tibetan mastiff     
+0.0       0.0       French bulldog      
+0.0       1.96      Great Dane          
+0.0       1.96      Saint Bernard       
+0.0       0.0       Eskimo dog          
+0.0       0.0       malamute            
+1.96      1.96      Siberian husky      
+0.0       4.0       dalmatian           
+0.0       0.0       affenpinscher       
+0.0       0.0       basenji             
+24.0      32.0      pug                 
+0.0       0.0       Leonberg            
+0.0       0.0       Newfoundland        
+0.0       1.96      Great Pyrenees      
+0.0       0.0       Samoyed             
+0.0       3.92      Pomeranian          
+0.0       0.0       chow                
+0.0       0.0       keeshond            
+0.0       0.0       Brabancon griffon   
+0.0       0.0       Pembroke            
+0.0       1.96      Cardigan            
+0.0       3.92      toy poodle          
+0.0       0.0       miniature poodle    
+0.0       0.0       standard poodle     
+0.0       0.0       Mexican hairless    
+0.0       0.0       timber wolf         
+1.96      1.96      white wolf          
+0.0       0.0       red wolf            
+0.0       1.96      coyote              
+0.0       0.0       dingo               
+0.0       0.0       dhole               
+0.0       1.96      African hunting dog 
+0.0       0.0       hyena               
+0.0       0.0       red fox             
+0.0       0.0       kit fox             
+0.0       0.0       Arctic fox          
+0.0       2.0       grey fox            
+4.0       54.0      tabby               
+11.76     21.57     tiger cat           
+0.0       3.92      Persian cat         
+3.92      9.8       Siamese cat         
+0.0       0.0       Egyptian cat        
+0.0       0.0       cougar              
+0.0       0.0       lynx                
+4.0       8.0       leopard             
+8.0       16.0      snow leopard        
+0.0       0.0       jaguar              
+0.0       0.0       lion                
+0.0       0.0       tiger               
+0.0       4.0       cheetah             
+0.0       6.0       brown bear          
+1.96      7.84      American black bear 
+3.92      5.88      ice bear            
+13.73     23.53     sloth bear          
+0.0       0.0       mongoose            
+0.0       0.0       meerkat             
+0.0       0.0       tiger beetle        
+0.0       0.0       ladybug             
+0.0       0.0       ground beetle       
+1.96      5.88      long-horned beetle  
+0.0       0.0       leaf beetle         
+0.0       0.0       dung beetle         
+0.0       0.0       rhinoceros beetle   
+0.0       0.0       weevil              
+9.8       50.98     fly                 
+0.0       0.0       bee                 
+0.0       0.0       ant                 
+0.0       0.0       grasshopper         
+0.0       0.0       cricket             
+0.0       0.0       walking stick       
+0.0       0.0       cockroach           
+0.0       0.0       mantis              
+0.0       0.0       cicada              
+1.96      25.49     leafhopper          
+0.0       0.0       lacewing            
+0.0       1.96      dragonfly           
+0.0       5.88      damselfly           
+0.0       0.0       admiral             
+0.0       0.0       ringlet             
+0.0       0.0       monarch             
+0.0       0.0       cabbage butterfly   
+0.0       0.0       sulphur butterfly   
+0.0       0.0       lycaenid            
+0.0       0.0       starfish            
+0.0       0.0       sea urchin          
+0.0       0.0       sea cucumber        
+0.0       0.0       wood rabbit         
+0.0       0.0       hare                
+0.0       0.0       Angora              
+0.0       0.0       hamster             
+0.0       0.0       porcupine           
+0.0       1.96      fox squirrel        
+0.0       0.0       marmot              
+0.0       0.0       beaver              
+2.0       2.0       guinea pig          
+0.0       0.0       sorrel              
+31.37     54.9      zebra               
+0.0       0.0       hog                 
+0.0       0.0       wild boar           
+0.0       0.0       warthog             
+0.0       3.92      hippopotamus        
+0.0       0.0       ox                  
+0.0       3.92      water buffalo       
+0.0       0.0       bison               
+0.0       0.0       ram                 
+0.0       0.0       bighorn             
+0.0       0.0       ibex                
+3.92      5.88      hartebeest          
+0.0       0.0       impala              
+0.0       0.0       gazelle             
+0.0       0.0       Arabian camel       
+0.0       0.0       llama               
+0.0       0.0       weasel              
+0.0       0.0       mink                
+0.0       0.0       polecat             
+0.0       1.96      black-footed ferret 
+0.0       0.0       otter               
+0.0       0.0       skunk               
+4.0       8.0       badger              
+0.0       0.0       armadillo           
+0.0       0.0       three-toed sloth    
+0.0       0.0       orangutan           
+0.0       8.0       gorilla             
+0.0       0.0       chimpanzee          
+0.0       0.0       gibbon              
+0.0       0.0       siamang             
+0.0       0.0       guenon              
+0.0       0.0       patas               
+0.0       0.0       baboon              
+0.0       0.0       macaque             
+0.0       0.0       langur              
+0.0       0.0       colobus             
+0.0       0.0       proboscis monkey    
+0.0       0.0       marmoset            
+0.0       0.0       capuchin            
+0.0       0.0       howler monkey       
+0.0       0.0       titi                
+0.0       0.0       spider monkey       
+0.0       0.0       squirrel monkey     
+1.96      5.88      Madagascar cat      
+0.0       0.0       indri               
+0.0       1.96      Indian elephant     
+3.92      17.65     African elephant    
+0.0       5.88      lesser panda        
+7.84      21.57     giant panda         
+0.0       0.0       barracouta          
+0.0       0.0       eel                 
+0.0       0.0       coho                
+0.0       0.0       rock beauty         
+0.0       0.0       anemone fish        
+0.0       0.0       sturgeon            
+0.0       0.0       gar                 
+0.0       0.0       lionfish            
+0.0       0.0       puffer              
+0.0       0.0       abacus              
+0.0       0.0       abaya               
+0.0       1.96      academic gown       
+1.96      15.69     accordion           
+0.0       0.0       acoustic guitar     
+0.0       1.96      aircraft carrier    
+1.96      11.76     airliner            
+0.0       5.88      airship             
+0.0       0.0       altar               
+0.0       0.0       ambulance           
+0.0       0.0       amphibian           
+9.8       29.41     analog clock        
+0.0       0.0       apiary              
+0.0       0.0       apron               
+0.0       0.0       ashcan              
+0.0       0.0       assault rifle       
+0.0       0.0       backpack            
+0.0       0.0       bakery              
+0.0       0.0       balance beam        
+0.0       0.0       balloon             
+0.0       0.0       ballpoint           
+0.0       0.0       Band Aid            
+0.0       0.0       banjo               
+0.0       0.0       bannister           
+0.0       0.0       barbell             
+0.0       0.0       barber chair        
+0.0       5.88      barbershop          
+3.92      27.45     barn                
+0.0       0.0       barometer           
+0.0       0.0       barrel              
+0.0       0.0       barrow              
+0.0       0.0       baseball            
+0.0       0.0       basketball          
+0.0       0.0       bassinet            
+0.0       0.0       bassoon             
+0.0       0.0       bathing cap         
+0.0       0.0       bath towel          
+0.0       1.96      bathtub             
+0.0       1.96      beach wagon         
+0.0       3.92      beacon              
+0.0       0.0       beaker              
+0.0       3.92      bearskin            
+0.0       2.0       beer bottle         
+2.0       2.0       beer glass          
+0.0       0.0       bell cote           
+0.0       0.0       bib                 
+7.84      35.29     bicycle-built-for-two
+0.0       0.0       bikini              
+0.0       0.0       binder              
+0.0       0.0       binoculars          
+0.0       0.0       birdhouse           
+0.0       0.0       boathouse           
+0.0       0.0       bobsled             
+0.0       0.0       bolo tie            
+5.88      9.8       bonnet              
+0.0       1.96      bookcase            
+0.0       0.0       bookshop            
+0.0       0.0       bottlecap           
+0.0       0.0       bow                 
+0.0       0.0       bow tie             
+0.0       0.0       brass               
+0.0       0.0       brassiere           
+0.0       0.0       breakwater          
+0.0       0.0       breastplate         
+0.0       0.0       broom               
+0.0       0.0       bucket              
+0.0       0.0       buckle              
+0.0       0.0       bulletproof vest    
+1.96      3.92      bullet train        
+0.0       0.0       butcher shop        
+0.0       0.0       cab                 
+0.0       0.0       caldron             
+0.0       0.0       candle              
+0.0       0.0       cannon              
+0.0       0.0       canoe               
+0.0       3.92      can opener          
+0.0       0.0       cardigan            
+1.96      5.88      car mirror          
+0.0       0.0       carousel            
+0.0       0.0       carpenter's kit     
+0.0       0.0       carton              
+1.96      5.88      car wheel           
+0.0       9.8       cash machine        
+0.0       0.0       cassette            
+0.0       0.0       cassette player     
+6.0       36.0      castle              
+0.0       0.0       catamaran           
+0.0       0.0       CD player           
+0.0       0.0       cello               
+0.0       7.84      cellular telephone  
+0.0       0.0       chain               
+9.8       21.57     chainlink fence     
+0.0       0.0       chain mail          
+0.0       0.0       chain saw           
+0.0       0.0       chest               
+0.0       0.0       chiffonier          
+0.0       0.0       chime               
+2.0       6.0       china cabinet       
+0.0       0.0       Christmas stocking  
+14.0      36.0      church              
+0.0       0.0       cinema              
+0.0       0.0       cleaver             
+1.96      9.8       cliff dwelling      
+0.0       3.92      cloak               
+0.0       0.0       clog                
+0.0       0.0       cocktail shaker     
+4.0       6.0       coffee mug          
+0.0       0.0       coffeepot           
+0.0       0.0       coil                
+0.0       0.0       combination lock    
+7.84      19.61     computer keyboard   
+0.0       0.0       confectionery       
+0.0       0.0       container ship      
+7.84      19.61     convertible         
+0.0       4.0       corkscrew           
+0.0       1.96      cornet              
+0.0       0.0       cowboy boot         
+0.0       0.0       cowboy hat          
+0.0       0.0       cradle              
+0.0       0.0       crash helmet        
+0.0       0.0       crate               
+0.0       0.0       crib                
+0.0       0.0       Crock Pot           
+0.0       0.0       croquet ball        
+0.0       0.0       crutch              
+0.0       0.0       cuirass             
+0.0       1.96      dam                 
+0.0       3.92      desk                
+9.8       15.69     desktop computer    
+1.96      23.53     dial telephone      
+0.0       0.0       diaper              
+0.0       0.0       digital clock       
+0.0       19.61     digital watch       
+0.0       0.0       dining table        
+0.0       1.96      dishrag             
+0.0       0.0       dishwasher          
+0.0       0.0       disk brake          
+1.96      15.69     dock                
+7.84      25.49     dogsled             
+0.0       1.96      dome                
+0.0       0.0       doormat             
+3.92      13.73     drilling platform   
+0.0       0.0       drum                
+0.0       3.92      drumstick           
+0.0       0.0       dumbbell            
+0.0       0.0       Dutch oven          
+0.0       0.0       electric fan        
+0.0       0.0       electric guitar     
+5.88      19.61     electric locomotive 
+0.0       0.0       entertainment center
+0.0       0.0       envelope            
+0.0       0.0       espresso maker      
+0.0       9.8       face powder         
+0.0       0.0       feather boa         
+0.0       0.0       file                
+0.0       0.0       fireboat            
+0.0       0.0       fire engine         
+0.0       0.0       fire screen         
+0.0       0.0       flagpole            
+0.0       0.0       flute               
+0.0       2.0       folding chair       
+0.0       0.0       football helmet     
+0.0       0.0       forklift            
+0.0       0.0       fountain            
+0.0       0.0       fountain pen        
+0.0       1.96      four-poster         
+0.0       0.0       freight car         
+0.0       0.0       French horn         
+0.0       0.0       frying pan          
+0.0       0.0       fur coat            
+0.0       0.0       garbage truck       
+0.0       0.0       gasmask             
+0.0       0.0       gas pump            
+0.0       1.96      goblet              
+0.0       0.0       go-kart             
+0.0       0.0       golf ball           
+0.0       0.0       golfcart            
+0.0       3.92      gondola             
+0.0       0.0       gong                
+0.0       7.84      gown                
+0.0       0.0       grand piano         
+0.0       0.0       greenhouse          
+1.96      9.8       grille              
+0.0       0.0       grocery store       
+0.0       0.0       guillotine          
+0.0       0.0       hair slide          
+0.0       0.0       hair spray          
+0.0       0.0       half track          
+0.0       0.0       hammer              
+0.0       0.0       hamper              
+0.0       0.0       hand blower         
+0.0       0.0       hand-held computer  
+0.0       0.0       handkerchief        
+0.0       0.0       hard disc           
+0.0       0.0       harmonica           
+0.0       7.84      harp                
+0.0       0.0       harvester           
+0.0       0.0       hatchet             
+0.0       0.0       holster             
+0.0       0.0       home theater        
+0.0       0.0       honeycomb           
+3.92      19.61     hook                
+0.0       0.0       hoopskirt           
+0.0       1.96      horizontal bar      
+0.0       5.88      horse cart          
+0.0       0.0       hourglass           
+5.88      9.8       iPod                
+0.0       3.92      iron                
+0.0       0.0       jack-o'-lantern     
+0.0       0.0       jean                
+1.96      5.88      jeep                
+9.8       17.65     jersey              
+0.0       0.0       jigsaw puzzle       
+0.0       3.92      jinrikisha          
+0.0       0.0       joystick            
+0.0       0.0       kimono              
+0.0       0.0       knee pad            
+0.0       0.0       knot                
+0.0       0.0       lab coat            
+0.0       0.0       ladle               
+0.0       0.0       lampshade           
+3.92      17.65     laptop              
+0.0       0.0       lawn mower          
+0.0       1.96      lens cap            
+0.0       0.0       letter opener       
+0.0       0.0       library             
+0.0       0.0       lifeboat            
+0.0       0.0       lighter             
+1.96      7.84      limousine           
+0.0       0.0       liner               
+0.0       7.84      lipstick            
+0.0       0.0       Loafer              
+0.0       0.0       lotion              
+0.0       0.0       loudspeaker         
+0.0       0.0       loupe               
+0.0       3.92      lumbermill          
+0.0       0.0       magnetic compass    
+0.0       0.0       mailbag             
+0.0       0.0       mailbox             
+0.0       0.0       maillot             
+1.96      5.88      manhole cover       
+0.0       0.0       maraca              
+0.0       0.0       marimba             
+0.0       0.0       mask                
+0.0       0.0       matchstick          
+0.0       0.0       maypole             
+0.0       1.96      maze                
+0.0       0.0       measuring cup       
+0.0       0.0       medicine chest      
+0.0       0.0       megalith            
+0.0       0.0       microphone          
+3.92      7.84      microwave           
+0.0       17.65     military uniform    
+0.0       0.0       milk can            
+0.0       3.92      minibus             
+0.0       0.0       miniskirt           
+0.0       1.96      minivan             
+3.92      7.84      missile             
+0.0       0.0       mitten              
+0.0       0.0       mixing bowl         
+0.0       0.0       mobile home         
+0.0       0.0       Model T             
+1.96      1.96      modem               
+0.0       35.29     monastery           
+1.96      7.84      monitor             
+0.0       0.0       moped               
+0.0       0.0       mortar              
+0.0       0.0       mortarboard         
+0.0       11.76     mosque              
+0.0       0.0       mosquito net        
+0.0       0.0       motor scooter       
+0.0       3.92      mountain bike       
+1.96      3.92      mountain tent       
+0.0       7.84      mouse               
+0.0       1.96      mousetrap           
+0.0       0.0       moving van          
+0.0       0.0       muzzle              
+0.0       0.0       nail                
+0.0       0.0       neck brace          
+0.0       0.0       necklace            
+13.73     25.49     nipple              
+0.0       0.0       notebook            
+13.73     33.33     obelisk             
+0.0       0.0       oboe                
+0.0       0.0       ocarina             
+7.84      31.37     odometer            
+0.0       0.0       oil filter          
+0.0       0.0       organ               
+0.0       0.0       oscilloscope        
+0.0       1.96      overskirt           
+5.88      11.76     oxcart              
+1.96      5.88      oxygen mask         
+0.0       0.0       packet              
+0.0       1.96      paddle              
+0.0       0.0       paddlewheel         
+0.0       0.0       padlock             
+0.0       0.0       paintbrush          
+1.96      3.92      pajama              
+39.22     54.9      palace              
+0.0       0.0       panpipe             
+3.92      23.53     paper towel         
+0.0       0.0       parachute           
+0.0       0.0       parallel bars       
+0.0       0.0       park bench          
+0.0       0.0       parking meter       
+0.0       0.0       passenger car       
+0.0       0.0       patio               
+0.0       0.0       pay-phone           
+0.0       0.0       pedestal            
+0.0       0.0       pencil box          
+0.0       0.0       pencil sharpener    
+0.0       0.0       perfume             
+0.0       0.0       Petri dish          
+1.96      3.92      photocopier         
+0.0       0.0       pick                
+0.0       0.0       pickelhaube         
+3.92      17.65     picket fence        
+1.96      7.84      pickup              
+5.88      27.45     pier                
+0.0       0.0       piggy bank          
+0.0       0.0       pill bottle         
+0.0       1.96      pillow              
+0.0       0.0       ping-pong ball      
+0.0       0.0       pinwheel            
+0.0       0.0       pirate              
+0.0       0.0       pitcher             
+1.96      3.92      plane               
+0.0       0.0       planetarium         
+0.0       0.0       plastic bag         
+0.0       0.0       plate rack          
+0.0       0.0       plow                
+0.0       0.0       plunger             
+0.0       3.92      Polaroid camera     
+1.96      1.96      pole                
+0.0       0.0       police van          
+0.0       0.0       poncho              
+0.0       0.0       pool table          
+0.0       1.96      pop bottle          
+0.0       0.0       pot                 
+0.0       0.0       potter's wheel      
+0.0       0.0       power drill         
+0.0       0.0       prayer rug          
+0.0       0.0       printer             
+0.0       5.88      prison              
+0.0       5.88      projectile          
+0.0       0.0       projector           
+0.0       0.0       puck                
+0.0       0.0       punching bag        
+1.96      1.96      purse               
+0.0       4.0       quill               
+0.0       0.0       quilt               
+0.0       0.0       racer               
+15.69     37.25     racket              
+0.0       0.0       radiator            
+0.0       1.96      radio               
+0.0       0.0       radio telescope     
+0.0       0.0       rain barrel         
+0.0       1.96      recreational vehicle
+0.0       0.0       reel                
+0.0       0.0       reflex camera       
+1.96      5.88      refrigerator        
+3.92      23.53     remote control      
+0.0       0.0       restaurant          
+0.0       0.0       revolver            
+0.0       0.0       rifle               
+1.96      1.96      rocking chair       
+0.0       0.0       rotisserie          
+0.0       3.92      rubber eraser       
+0.0       0.0       rugby ball          
+0.0       0.0       rule                
+0.0       0.0       running shoe        
+0.0       0.0       safe                
+0.0       0.0       safety pin          
+0.0       0.0       saltshaker          
+0.0       0.0       sandal              
+0.0       0.0       sarong              
+0.0       0.0       sax                 
+0.0       0.0       scabbard            
+3.92      43.14     scale               
+0.0       0.0       school bus          
+3.92      23.53     schooner            
+0.0       5.88      scoreboard          
+3.92      15.69     screen              
+0.0       0.0       screw               
+0.0       0.0       screwdriver         
+0.0       0.0       seat belt           
+0.0       0.0       sewing machine      
+0.0       0.0       shield              
+0.0       0.0       shoe shop           
+0.0       5.88      shoji               
+0.0       0.0       shopping basket     
+0.0       0.0       shopping cart       
+0.0       0.0       shovel              
+0.0       0.0       shower cap          
+5.88      11.76     shower curtain      
+7.84      21.57     ski                 
+0.0       0.0       ski mask            
+0.0       0.0       sleeping bag        
+0.0       0.0       slide rule          
+0.0       1.96      sliding door        
+0.0       1.96      slot                
+0.0       0.0       snorkel             
+0.0       1.96      snowmobile          
+0.0       0.0       snowplow            
+0.0       0.0       soap dispenser      
+0.0       0.0       soccer ball         
+0.0       0.0       sock                
+0.0       0.0       solar dish          
+0.0       0.0       sombrero            
+0.0       0.0       soup bowl           
+0.0       0.0       space bar           
+0.0       1.96      space heater        
+0.0       0.0       space shuttle       
+0.0       0.0       spatula             
+5.88      9.8       speedboat           
+3.92      7.84      spider web          
+0.0       4.0       spindle             
+0.0       1.96      sports car          
+0.0       0.0       spotlight           
+0.0       0.0       stage               
+15.69     15.69     steam locomotive    
+0.0       5.88      steel arch bridge   
+0.0       0.0       steel drum          
+0.0       0.0       stethoscope         
+0.0       1.96      stole               
+0.0       9.8       stone wall          
+0.0       5.88      stopwatch           
+0.0       0.0       stove               
+0.0       0.0       strainer            
+0.0       1.96      streetcar           
+0.0       0.0       stretcher           
+0.0       1.96      studio couch        
+0.0       0.0       stupa               
+0.0       0.0       submarine           
+3.92      5.88      suit                
+0.0       5.88      sundial             
+0.0       3.92      sunglass            
+0.0       0.0       sunglasses          
+0.0       0.0       sunscreen           
+0.0       0.0       suspension bridge   
+0.0       0.0       swab                
+1.96      5.88      sweatshirt          
+0.0       0.0       swimming trunks     
+0.0       3.92      swing               
+0.0       1.96      switch              
+1.96      1.96      syringe             
+0.0       0.0       table lamp          
+0.0       0.0       tank                
+0.0       0.0       tape player         
+0.0       0.0       teapot              
+0.0       11.76     teddy               
+0.0       0.0       television          
+0.0       1.96      tennis ball         
+0.0       0.0       thatch              
+0.0       0.0       theater curtain     
+0.0       0.0       thimble             
+0.0       0.0       thresher            
+0.0       0.0       throne              
+0.0       7.84      tile roof           
+7.84      15.69     toaster             
+0.0       0.0       tobacco shop        
+0.0       1.96      toilet seat         
+0.0       0.0       torch               
+0.0       1.96      totem pole          
+0.0       0.0       tow truck           
+0.0       0.0       toyshop             
+0.0       0.0       tractor             
+7.84      15.69     trailer truck       
+0.0       0.0       tray                
+0.0       0.0       trench coat         
+0.0       1.96      tricycle            
+0.0       0.0       trimaran            
+0.0       1.96      tripod              
+0.0       0.0       triumphal arch      
+1.96      3.92      trolleybus          
+0.0       0.0       trombone            
+0.0       0.0       tub                 
+0.0       0.0       turnstile           
+3.92      13.73     typewriter keyboard 
+0.0       0.0       umbrella            
+0.0       0.0       unicycle            
+3.92      7.84      upright             
+0.0       0.0       vacuum              
+0.0       4.0       vase                
+0.0       0.0       vault               
+0.0       0.0       velvet              
+0.0       0.0       vending machine     
+0.0       0.0       vestment            
+0.0       9.8       viaduct             
+0.0       0.0       violin              
+0.0       0.0       volleyball          
+1.96      5.88      waffle iron         
+1.96      21.57     wall clock          
+0.0       0.0       wallet              
+0.0       0.0       wardrobe            
+3.92      3.92      warplane            
+0.0       3.92      washbasin           
+0.0       0.0       washer              
+0.0       0.0       water bottle        
+0.0       1.96      water jug           
+5.88      13.73     water tower         
+0.0       13.73     whiskey jug         
+0.0       0.0       whistle             
+0.0       0.0       wig                 
+0.0       0.0       window screen       
+0.0       0.0       window shade        
+0.0       1.96      Windsor tie         
+0.0       0.0       wine bottle         
+0.0       0.0       wing                
+0.0       0.0       wok                 
+0.0       0.0       wooden spoon        
+0.0       0.0       wool                
+1.96      13.73     worm fence          
+1.96      21.57     wreck               
+0.0       0.0       yawl                
+0.0       0.0       yurt                
+0.0       0.0       web site            
+0.0       0.0       comic book          
+0.0       0.0       crossword puzzle    
+12.0      26.0      street sign         
+0.0       5.88      traffic light       
+1.96      5.88      book jacket         
+0.0       0.0       menu                
+0.0       15.69     plate               
+0.0       0.0       guacamole           
+0.0       0.0       consomme            
+0.0       0.0       hot pot             
+0.0       0.0       trifle              
+0.0       0.0       ice cream           
+0.0       0.0       ice lolly           
+0.0       0.0       French loaf         
+0.0       0.0       bagel               
+0.0       0.0       pretzel             
+0.0       0.0       cheeseburger        
+0.0       0.0       hotdog              
+0.0       0.0       mashed potato       
+0.0       1.96      head cabbage        
+0.0       0.0       broccoli            
+0.0       0.0       cauliflower         
+0.0       0.0       zucchini            
+0.0       0.0       spaghetti squash    
+0.0       0.0       acorn squash        
+0.0       0.0       butternut squash    
+0.0       0.0       cucumber            
+0.0       0.0       artichoke           
+0.0       0.0       bell pepper         
+0.0       0.0       cardoon             
+0.0       3.92      mushroom            
+0.0       0.0       Granny Smith        
+0.0       0.0       strawberry          
+0.0       0.0       orange              
+0.0       0.0       lemon               
+0.0       0.0       fig                 
+0.0       0.0       pineapple           
+0.0       0.0       banana              
+0.0       0.0       jackfruit           
+0.0       0.0       custard apple       
+0.0       0.0       pomegranate         
+0.0       0.0       hay                 
+0.0       0.0       carbonara           
+0.0       0.0       chocolate sauce     
+0.0       0.0       dough               
+0.0       0.0       meat loaf           
+0.0       0.0       pizza               
+0.0       0.0       potpie              
+0.0       0.0       burrito             
+0.0       1.96      red wine            
+0.0       0.0       espresso            
+0.0       0.0       cup                 
+0.0       0.0       eggnog              
+3.92      5.88      alp                 
+0.0       3.92      bubble              
+1.96      5.88      cliff               
+0.0       0.0       coral reef          
+0.0       0.0       geyser              
+0.0       9.8       lakeside            
+0.0       0.0       promontory          
+0.0       0.0       sandbar             
+7.84      21.57     seashore            
+0.0       0.0       valley              
+0.0       0.0       volcano             
+5.88      5.88      ballplayer          
+0.0       0.0       groom               
+0.0       0.0       scuba diver         
+0.0       0.0       rapeseed            
+0.0       0.0       daisy               
+0.0       0.0       yellow lady's slipper
+0.0       6.0       corn                
+0.0       0.0       acorn               
+0.0       0.0       hip                 
+0.0       0.0       buckeye             
+0.0       0.0       coral fungus        
+0.0       0.0       agaric              
+0.0       0.0       gyromitra           
+0.0       0.0       stinkhorn           
+0.0       0.0       earthstar           
+0.0       0.0       hen-of-the-woods    
+0.0       0.0       bolete              
+0.0       0.0       ear                 
+0.0       0.0       toilet tissue       

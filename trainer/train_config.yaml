@@ -1,0 +1,20 @@
+per_gpu_train_batch_size : 64 # 128 exeeds GPU memory
+per_gpu_eval_batch_size : 128 # not used in CLIP training
+n_gpu : 4
+num_workers : 4
+num_train_epochs : 35 # number of epochs to train
+
+gradient_accumulation_steps : 1 # Number of updates steps to accumulate before backward
+
+logging_steps : 50 #  log every this steps
+save_steps : 1000 # 1000 steps take 1 hour with 4 GTX1080 GPUs and batch size = 256 (64 per GPU)
+
+saved_checkpoints : saved_checkpoints
+logs : logs
+
+optimizer:
+  params:
+    eps: 1.0e-08
+    lr: 5e-4
+    weight_decay: 0.1
+  type: AdamW

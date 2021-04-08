@@ -1,0 +1,206 @@
+Top 1 accuracy = 3.84 %
+Top 5 accuracy = 10.99 %
+----------------------------------------------------- 
+Class wise accuracies (in %)
+
+Top-1     Top-5     Class name          
+0.0       2.17      goldfish            
+1.93      5.8       great white shark   
+1.05      2.63      hammerhead          
+0.0       1.94      stingray            
+0.45      1.8       hen                 
+0.5       1.5       ostrich             
+2.81      7.87      goldfinch           
+0.0       0.0       junco               
+0.43      3.83      bald eagle          
+0.55      7.14      vulture             
+1.28      3.85      common newt         
+0.61      2.42      axolotl             
+1.5       7.5       tree frog           
+0.0       2.7       common iguana       
+3.41      11.93     African chameleon   
+0.0       0.94      Indian cobra        
+0.0       2.31      scorpion            
+0.0       3.5       tarantula           
+1.82      2.73      centipede           
+1.88      11.25     peacock             
+0.0       0.0       lorikeet            
+1.45      6.65      hummingbird         
+0.85      2.56      toucan              
+0.0       3.78      drake               
+1.63      13.82     goose               
+1.23      2.47      black swan          
+0.0       2.21      koala               
+0.32      1.29      jellyfish           
+1.52      3.8       snail               
+1.23      1.23      American lobster    
+0.68      1.36      hermit crab         
+1.06      5.04      flamingo            
+7.32      28.05     American egret      
+2.88      13.67     pelican             
+2.44      8.54      king penguin        
+0.0       3.7       grey whale          
+0.0       2.42      killer whale        
+2.5       6.25      sea lion            
+1.94      18.06     Chihuahua           
+0.0       1.39      Shih-Tzu            
+0.0       0.0       Afghan hound        
+0.0       0.0       basset              
+5.41      27.93     beagle              
+0.0       3.77      bloodhound          
+0.0       0.0       Italian greyhound   
+0.0       0.0       whippet             
+0.0       0.0       Weimaraner          
+5.62      38.2      Yorkshire terrier   
+0.75      3.4       Boston bull         
+0.96      4.81      Scotch terrier      
+1.35      21.62     West Highland white terrier
+3.6       15.83     golden retriever    
+1.35      25.68     Labrador retriever  
+1.65      9.09      cocker spaniel      
+8.86      41.77     collie              
+2.11      12.63     Border collie       
+2.78      10.19     Rottweiler          
+0.77      14.62     German shepherd     
+0.0       1.2       boxer               
+0.0       4.07      French bulldog      
+1.96      5.88      Saint Bernard       
+0.0       0.67      Siberian husky      
+3.72      19.07     dalmatian           
+9.27      23.96     pug                 
+1.1       18.68     Pomeranian          
+0.0       0.0       chow                
+0.0       1.59      Pembroke            
+11.67     25.0      toy poodle          
+0.0       3.28      standard poodle     
+0.0       2.22      timber wolf         
+0.85      3.42      hyena               
+7.04      14.07     red fox             
+21.57     33.99     tabby               
+8.62      20.69     leopard             
+4.69      17.19     snow leopard        
+4.2       15.62     lion                
+5.7       20.18     tiger               
+5.49      23.78     cheetah             
+4.35      17.83     ice bear            
+0.0       1.73      meerkat             
+1.48      8.89      ladybug             
+12.5      28.75     fly                 
+2.89      13.91     bee                 
+0.6       3.59      ant                 
+0.6       6.02      grasshopper         
+2.06      4.12      cockroach           
+0.0       0.4       mantis              
+0.44      5.33      dragonfly           
+0.0       1.32      monarch             
+1.2       7.23      starfish            
+0.0       0.0       wood rabbit         
+0.0       1.02      porcupine           
+0.0       9.38      fox squirrel        
+0.0       1.16      beaver              
+0.69      5.56      guinea pig          
+22.16     44.32     zebra               
+0.37      1.85      hog                 
+0.6       3.57      hippopotamus        
+4.47      11.38     bison               
+0.72      2.16      gazelle             
+2.48      4.97      llama               
+0.63      7.55      skunk               
+1.6       6.4       badger              
+2.24      11.94     orangutan           
+3.52      14.1      gorilla             
+0.0       0.0       chimpanzee          
+0.0       3.12      gibbon              
+1.5       6.02      baboon              
+10.89     30.2      giant panda         
+0.0       6.25      eel                 
+0.58      2.89      anemone fish        
+0.56      0.56      puffer              
+3.79      18.94     accordion           
+18.37     39.8      ambulance           
+1.08      2.15      assault rifle       
+1.03      2.06      backpack            
+14.1      37.18     barn                
+0.0       0.97      barrow              
+1.86      12.42     basketball          
+1.69      9.32      bathtub             
+3.26      13.49     beacon              
+3.57      4.76      beer glass          
+0.0       0.78      binoculars          
+1.54      4.62      birdhouse           
+1.46      6.57      bow tie             
+0.56      2.81      broom               
+0.6       2.4       bucket              
+0.0       0.0       caldron             
+4.49      7.12      candle              
+0.0       0.0       cannon              
+6.52      15.22     canoe               
+1.92      3.85      carousel            
+20.28     36.36     castle              
+9.68      22.58     cellular telephone  
+5.5       17.87     cowboy hat          
+0.0       6.0       electric guitar     
+41.82     54.55     fire engine         
+0.0       0.0       flute               
+0.59      0.59      gasmask             
+3.19      13.83     grand piano         
+0.0       0.0       guillotine          
+0.59      2.35      hammer              
+0.0       0.0       harmonica           
+1.5       8.27      harp                
+0.0       1.02      hatchet             
+10.22     29.2      jeep                
+0.0       1.16      joystick            
+0.0       2.56      lab coat            
+11.39     13.92     lawn mower          
+5.06      25.32     lipstick            
+2.53      7.59      mailbox             
+4.12      16.49     missile             
+1.3       6.49      mitten              
+9.76      20.33     parachute           
+9.49      32.85     pickup              
+2.38      7.94      pirate              
+0.0       0.0       revolver            
+2.47      8.64      rugby ball          
+1.1       6.59      sandal              
+0.39      8.53      sax                 
+32.35     50.74     school bus          
+19.57     47.83     schooner            
+0.0       0.0       shield              
+2.11      11.05     soccer ball         
+1.3       3.04      space shuttle       
+13.61     21.09     spider web          
+29.44     40.26     steam locomotive    
+2.41      10.84     stole               
+2.47      9.88      submarine           
+0.4       4.03      tank                
+10.0      30.0      tennis ball         
+8.29      26.94     tractor             
+0.0       1.03      trombone            
+18.75     39.38     vase                
+1.73      2.31      violin              
+24.38     44.38     warplane            
+0.89      7.14      wine bottle         
+1.63      6.53      ice cream           
+3.3       8.79      bagel               
+5.31      15.93     pretzel             
+9.82      16.49     cheeseburger        
+5.24      16.67     hotdog              
+2.41      9.64      head cabbage        
+6.54      15.03     broccoli            
+3.45      9.2       cucumber            
+8.09      29.41     bell pepper         
+0.0       1.16      mushroom            
+0.0       4.72      Granny Smith        
+13.36     32.13     strawberry          
+21.59     44.89     lemon               
+3.98      13.43     pineapple           
+16.67     31.71     banana              
+6.84      30.77     pomegranate         
+10.81     15.54     pizza               
+0.0       1.49      burrito             
+2.15      8.6       espresso            
+0.0       2.37      volcano             
+11.18     37.65     ballplayer          
+1.32      3.29      scuba diver         
+1.06      3.7       acorn               
