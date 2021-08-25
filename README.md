@@ -1,7 +1,7 @@
 # CLIP training
 
 This repository contains code to train [CLIP](https://github.com/openai/CLIP) on [MS-COCO](https://cocodataset.org/#home) captions. 
-Functionality to train on other multi-modal datasets (OpenImages, Conceptual captions, ...) will also be added in the future.
+Can be easily modified to train on other multi-modal datasets (OpenImages, Conceptual captions, ...).
 
 ## Requirements
 * Use **python > 3.8.5**. Conda recommended : [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)
@@ -119,10 +119,3 @@ $ python zero_shot_demo.py --checkpoint_path saved_checkpoints/trained_checkpoin
 
 ### Zero-shot evaluation on vision datasets + observations :
 For evaluation results and instructions on how to run eval code, check this : [Observations and Eval results](/zero_shot_eval_output/coco_trained_clip_observations.md)
-
-
-## TODO
-- [x] Code to train CLIP on MS-COCO Captions
-- [ ] Code to train on Conceptual captions
-- [ ] Code to train on OpenImages
-- [ ] Docker image to setup environment
